@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pradeepraju123
-- 👀 I’m interested in Web Developing, wordpress Developing
-- 🌱 I’m currently learning Angular js
+- 👋 Hi, I’m Pradeep Raju
+- 👀 I’m interested in Web Designing and Developing with Excellence
+- 🌱 I’m currently working with Angular, Node.js, Express.js, MongoDB
 - 📫 How to reach me ... via Git
 
 <!---
